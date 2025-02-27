@@ -74,6 +74,23 @@ class _ImageAnalyzerState extends State<ImageAnalyzer> {
     following sections: Recipe Name, Ingredients, Complexity, Steps to Create. 
     Please only return the recipe and do not return any other text in your 
     response.''';
+
+    final content = [
+      Content.multi([
+        TextPart(prompt),
+        // The only accepted mime types are image/*.
+        DataPart('image/jpeg', _imageBytes!),
+        // DataPart('image/jpeg', sconeBytes.buffer.asUint8List()),
+      ])
+    ];
+
+    // The model is then run and the recipe is generated
+    final recipe = await _model.generateContent(content);
+
+    // Sets state to update the display of the app
+    setState(() {
+      generatedText = recipe.text;
+    });
   }
 
   @override
