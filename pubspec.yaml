@@ -44,6 +44,7 @@ dependencies:
   google_generative_ai: ^0.4.6
   flutter_dotenv: ^5.2.1
   file_picker: ^9.0.2
+  google_fonts: ^6.2.1
 
 dev_dependencies:
   flutter_test:
