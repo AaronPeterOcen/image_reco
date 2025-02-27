@@ -146,6 +146,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "cross_file",
+      "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/cross_file-0.3.4+2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
       "name": "crypto",
       "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/crypto-3.0.3",
       "packageUri": "lib/",
@@ -194,10 +200,22 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "ffi",
+      "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/ffi-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
       "name": "file",
       "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/file-7.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "file_picker",
+      "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/file_picker-9.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "fixnum",
@@ -224,6 +242,12 @@
       "languageVersion": "3.7"
     },
     {
+      "name": "flutter_dotenv",
+      "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/flutter_dotenv-5.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_lints",
       "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3",
       "packageUri": "lib/",
@@ -234,6 +258,12 @@
       "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/flutter_native_splash-2.3.11",
       "packageUri": "lib/",
       "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter_plugin_android_lifecycle",
+      "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.24",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
     },
     {
       "name": "flutter_riverpod",
@@ -284,6 +314,12 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "google_generative_ai",
+      "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/google_generative_ai-0.4.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "graphs",
       "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/graphs-2.3.1",
       "packageUri": "lib/",
@@ -294,6 +330,12 @@
       "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/html-0.15.4",
       "packageUri": "lib/",
       "languageVersion": "2.19"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/http-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "http_multi_server",
@@ -420,6 +462,12 @@
       "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/petitparser-6.0.2",
       "packageUri": "lib/",
       "languageVersion": "3.2"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "pointycastle",
@@ -626,10 +674,22 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "web",
+      "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/web-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "web_socket_channel",
       "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/web_socket_channel-2.4.0",
       "packageUri": "lib/",
       "languageVersion": "2.15"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///home/pteer/.pub-cache/hosted/pub.dev/win32-5.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
     },
     {
       "name": "xml",
@@ -650,7 +710,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2025-02-26T06:43:59.943876Z",
+  "generated": "2025-02-27T17:16:56.242988Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///home/pteer/snap/flutter/common/flutter",
