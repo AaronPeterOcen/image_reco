@@ -1,0 +1,12 @@
+/home/pteer/Flutter/image_reco/build/linux/x64/debug/bundle/flutter_skeleton
+/home/pteer/Flutter/image_reco/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/pteer/Flutter/image_reco/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/pteer/Flutter/image_reco/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/pteer/Flutter/image_reco/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/pteer/Flutter/image_reco/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/pteer/Flutter/image_reco/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/pteer/Flutter/image_reco/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/pteer/Flutter/image_reco/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/pteer/Flutter/image_reco/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/pteer/Flutter/image_reco/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/pteer/Flutter/image_reco/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json

@@ -1,22 +1,22 @@
 // Flutter imports:
 import 'package:flutter/material.dart';
-
-// Package imports:
-import 'package:flutter_riverpod/flutter_riverpod.dart';
-
-// Project imports:
-import 'package:flutter_skeleton/app.dart';
-import 'package:flutter_skeleton/i18n/translations.g.dart';
+import 'package:flutter_skeleton/my_home_page.dart';
 
 void main() {
-  WidgetsFlutterBinding.ensureInitialized();
-  LocaleSettings.useDeviceLocale();
-
   runApp(
-    TranslationProvider(
-      child: const ProviderScope(
-        child: MyApp(),
-      ),
-    ),
+    MyApp(),
   );
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      home: MyHomePage(),
+    );
+  }
 }
